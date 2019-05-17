@@ -1,8 +1,10 @@
-body { 
+/* body {
   text-align: center;
 }
 
-.header, article, main {
+.header,
+article,
+main {
   margin: 0 auto;
   max-width: 94%;
 }
@@ -13,18 +15,17 @@ body {
 }
 
 .github-profile {
-  float: left; 
-  margin: 1rem .5rem;
-  width: 90%;
+  float: left;
+  margin: 1rem 0.5rem;
+  width: 33%;
   border: 1px dotted #444;
-  padding: 1rem; 
-   text-align: left;
-
+  padding: 1rem;
+  text-align: left;
 }
 .github-profile img {
   float: left;
- margin: 5px 15px 15px 0;
- max-width: 100px;
+  margin: 5px 15px 15px 0;
+  max-width: 100px;
 }
 
 .github-profile .name {
@@ -39,22 +40,23 @@ form {
   padding: 2rem;
   background: #efefef;
 }
-input, button {
+input,
+button {
   line-height: 1.5rem;
-   padding: 5px;
-   font-size: 1.2rem;
-   border-radius: 6px;
-   margin: 0 2px;
+  padding: 5px;
+  font-size: 1.2rem;
+  border-radius: 6px;
+  margin: 0 2px;
 }
 
 button {
   background: #0b0;
   color: #eee;
-  border: 2px solid #0b0;  
+  border: 2px solid #0b0;
 }
 
 button:hover {
   border: 2px solid #0a0;
   background: #0a0;
   cursor: pointer;
-}
+} */
